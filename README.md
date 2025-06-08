@@ -25,9 +25,9 @@ CPU: Intel i3 trở lên/ RAM: 4GB hoặc cao hơn
 Python 3.8+
 * Thư viện:
 
-pycryptodome hoặc cryptography
+- pycryptodome hoặc cryptography
 
-tkinter
+- tkinter
 * Cài đặt thư viện thông qua file requirements.txt 
         (pip install -r requirements.txt)
 
