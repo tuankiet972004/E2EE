@@ -24,24 +24,31 @@ CPU: Intel i3 trở lên/ RAM: 4GB hoặc cao hơn
 * Phần mềm
 Python 3.8+
 * Thư viện:
-pycryptodome hoặc cryptography/ tkinter
+pycryptodome hoặc cryptography
+
+tkinter
 * Cài đặt thư viện thông qua file requirements.txt 
         (pip install -r requirements.txt)
 
 3.  Cách sử dụng
 * Tạo phòng chat (server)
 Mở ứng dụng, chọn Khởi tạo phòng chat.
+
 Ghi nhớ hoặc chia sẻ địa chỉ IP được hiển thị.
 
 * Tham gia phòng chat (client)
-Nhập địa chỉ IP của server.
-Chọn Tham gia phòng chat để kết nối.
+1. Nhập địa chỉ IP của server.
+
+2. Chọn Tham gia phòng chat để kết nối.
 
 * Gửi & Nhận tin nhắn
 Nhập nội dung vào khung soạn thảo.
+
 Nhấn Gửi để mã hóa, ký và gửi tin nhắn.
 
 4.  Bảo mật
-- AES đảm bảo tin nhắn được mã hóa an toàn.
-- ECC xác minh nguồn gốc và tính toàn vẹn của tin nhắn.
-- Ngăn chặn tấn công trung gian (MITM) và giả mạo nội dung.
+AES đảm bảo tin nhắn được mã hóa an toàn.
+
+ECC xác minh nguồn gốc và tính toàn vẹn của tin nhắn.
+
+Ngăn chặn tấn công trung gian (MITM) và giả mạo nội dung.
