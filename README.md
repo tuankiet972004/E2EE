@@ -23,11 +23,7 @@ CPU: Intel i3 trở lên/ RAM: 4GB hoặc cao hơn
 * Mạng: Internet hoặc LAN
 * Phần mềm
 Python 3.8+
-* Thư viện:
-
-- pycryptodome hoặc cryptography
-
-- tkinter
+* Thư viện:pycryptodome hoặc cryptography/ tkinter
 * Cài đặt thư viện thông qua file requirements.txt 
         (pip install -r requirements.txt)
 
@@ -38,7 +34,7 @@ Mở ứng dụng, chọn Khởi tạo phòng chat.
 
 Ghi nhớ hoặc chia sẻ địa chỉ IP được hiển thị.
 
-Tham gia phòng chat (client)
+* Tham gia phòng chat (client)
 
 1. Nhập địa chỉ IP của server.
 
