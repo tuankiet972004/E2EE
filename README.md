@@ -1,4 +1,4 @@
-                                                                                Mô hình E2EE Chat
+                                                           Mô hình E2EE Chat
 Ứng dụng chat mã hóa đầu-cuối sử dụng AES và ECC, hỗ trợ tạo phòng chat riêng tư, xác thực người gửi và đảm bảo tính bảo mật toàn vẹn tin nhắn.
 
 1.  Chức năng chính
