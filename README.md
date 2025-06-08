@@ -19,14 +19,14 @@ Giao diện trực quan bằng Tkinter, cho phép nhập, gửi, và hiển th�
 
 2.  Yêu cầu Hệ thống
 * Phần cứng
-- CPU: Intel i3 trở lên
-- RAM: 4GB hoặc cao hơn
+CPU: Intel i3 trở lên
+RAM: 4GB hoặc cao hơn
 * Mạng: Internet hoặc LAN
 * Phần mềm
-- Python 3.8+
+Python 3.8+
 * Thư viện:
-- pycryptodome hoặc cryptography
-- tkinter
+pycryptodome hoặc cryptography
+tkinter
 * Cài đặt thư viện thông qua file requirements.txt 
         (pip install -r requirements.txt)
 
