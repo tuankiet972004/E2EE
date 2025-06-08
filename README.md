@@ -47,6 +47,7 @@ Nhập nội dung vào khung soạn thảo.
 Nhấn Gửi để mã hóa, ký và gửi tin nhắn.
 
 4.  Bảo mật
+
 AES đảm bảo tin nhắn được mã hóa an toàn.
 
 ECC xác minh nguồn gốc và tính toàn vẹn của tin nhắn.
