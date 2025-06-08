@@ -33,16 +33,19 @@ Python 3.8+
 
 3.  Cách sử dụng
 * Tạo phòng chat (server)
+
 Mở ứng dụng, chọn Khởi tạo phòng chat.
 
 Ghi nhớ hoặc chia sẻ địa chỉ IP được hiển thị.
 
-* Tham gia phòng chat (client)
+Tham gia phòng chat (client)
+
 1. Nhập địa chỉ IP của server.
 
 2. Chọn Tham gia phòng chat để kết nối.
 
 * Gửi & Nhận tin nhắn
+
 Nhập nội dung vào khung soạn thảo.
 
 Nhấn Gửi để mã hóa, ký và gửi tin nhắn.
