@@ -24,6 +24,7 @@ CPU: Intel i3 trở lên/ RAM: 4GB hoặc cao hơn
 * Phần mềm
 Python 3.8+
 * Thư viện:
+
 pycryptodome hoặc cryptography
 
 tkinter
